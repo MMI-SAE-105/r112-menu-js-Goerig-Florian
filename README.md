@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Goerig
+- prénom : florian
+- URL Netlify : https://elaborate-bunny-7a10ea.netlify.app/
 
 # Travail
 
